@@ -1,14 +1,3 @@
-/*********************************************************************/
-/**   ACH2001 - Introdução à Programação                            **/
-/**   EACH-USP - Primeiro Semestre de 2020                          **/
-/**   Matutino - Digiampietri                                       **/
-/**                                                                 **/
-/**   Quarto Exercício-Programa                                     **/
-/**                                                                 **/
-/**   Laura Steinert de Freitas                   10725244          **/
-/**                                                                 **/
-/**   27/06/2020                                                    **/
-/*********************************************************************/
 
 /* Classe para adicionar Gerentes.  
 	Todos os gerentes criados passam por aqui.
